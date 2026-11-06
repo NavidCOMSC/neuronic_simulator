@@ -10,8 +10,7 @@ analyses flux spectra, reaction rates and uncertainties with pandas.
 .
 ├── README.md
 ├── environment.yml
-├── notebooks/
-│   └── pincell_pandas_demo.ipynb
+├── pincell_pandas_demo.ipynb
 ├── run_pincell/            # created at runtime (model.xml, statepoint.*.h5, summary.h5) - git-ignored
 └── LICENSE
 ```
